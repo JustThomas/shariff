@@ -32,6 +32,7 @@ var Shariff = function(element, options) {
         require('./services/xing'),
         require('./services/tumblr'),
         require('./services/threema'),
+        require('./services/telegram'),
         require('./services/weibo'),
         require('./services/tencent-weibo'),
         require('./services/qzone')
